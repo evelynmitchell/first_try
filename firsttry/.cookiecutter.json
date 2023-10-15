@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/home/efm/git/hypermodernpython",
+  "_repo_dir": "/home/efm/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Evelyn  Mitchell",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "efmphone@gmail.com",
+  "friendly_name": "Firsttry",
+  "github_user": "evelynmitchell",
+  "license": "GPL-3.0",
+  "package_name": "firsttry",
+  "project_name": "firsttry",
+  "version": "0.0.0"
+}
