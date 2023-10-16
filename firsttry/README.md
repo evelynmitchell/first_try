@@ -31,6 +31,10 @@
 
 ## Installation
 
+Tox install:
+```
+python3 -m pip ins
+tall pipx-in-pipx --user```
 You can install _Firsttry_ via [pip] from [PyPI]:
 
 ```console
